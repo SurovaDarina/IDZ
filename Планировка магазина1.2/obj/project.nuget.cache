@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ys5RZbPtRgcDtBkMWVW6eIcggMU7J0+snUsSw8o8/3g8nikp3rE4F2JMxaMN/iJTok8T6elhviLYEr+wk3YaCA==",
+  "success": true,
+  "projectFilePath": "D:\\Планировка магазина1.2\\Планировка магазина1.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дари Добро\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

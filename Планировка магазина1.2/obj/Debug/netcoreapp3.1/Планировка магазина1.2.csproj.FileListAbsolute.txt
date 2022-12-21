@@ -1,0 +1,67 @@
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.exe
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.deps.json
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.json
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.dev.json
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csprojAssemblyReference.cache
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Form1.resources
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.GenerateResource.cache
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfoInputs.cache
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfo.cs
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.CoreCompileInputs.cache
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.genruntimeconfig.cache
+C:\Users\Софья\source\repos\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Properties.Resources.resources
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.exe
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.deps.json
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.json
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.dev.json
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Form1.resources
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Properties.Resources.resources
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfo.cs
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\alber\Desktop\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.genruntimeconfig.cache
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.exe
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.deps.json
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.json
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.dev.json
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.AssemblyReference.cache
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Form1.resources
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Properties.Resources.resources
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.GenerateResource.cache
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfoInputs.cache
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfo.cs
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.CoreCompileInputs.cache
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+C:\Users\79802\Downloads\Планировка магазина1.2\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.genruntimeconfig.cache
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.exe
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.deps.json
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.json
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.runtimeconfig.dev.json
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+D:\Планировка магазина1.2\bin\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.AssemblyReference.cache
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Form1.resources
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка_магазина1._2.Properties.Resources.resources
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.GenerateResource.cache
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfoInputs.cache
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.AssemblyInfo.cs
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.csproj.CoreCompileInputs.cache
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.dll
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.pdb
+D:\Планировка магазина1.2\obj\Debug\netcoreapp3.1\Планировка магазина1.2.genruntimeconfig.cache
